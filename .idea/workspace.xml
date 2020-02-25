@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29178bd2-3647-4b6a-ad4f-6b564618433c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UhBtv0xVYFUQjD1oqgNpn3ArpT" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GaussTest.testGauss8">
+    <configuration name="GaussTest.testGauss4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kursach4mt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GaussTest" />
+      <option name="METHOD_NAME" value="testGauss4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GaussTest.testGauss5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kursach4mt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GaussTest" />
+      <option name="METHOD_NAME" value="testGauss5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GaussTest.testGauss6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kursach4mt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GaussTest" />
+      <option name="METHOD_NAME" value="testGauss6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GaussTest.testGauss7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kursach4mt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GaussTest" />
+      <option name="METHOD_NAME" value="testGauss7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GaussTest.testGauss8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kursach4mt" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GaussTest" />
+      <option name="METHOD_NAME" value="testGauss8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GaussTest.testGauss8" />
+        <item itemvalue="JUnit.GaussTest.testGauss7" />
+        <item itemvalue="JUnit.GaussTest.testGauss6" />
+        <item itemvalue="JUnit.GaussTest.testGauss5" />
+        <item itemvalue="JUnit.GaussTest.testGauss4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29178bd2-3647-4b6a-ad4f-6b564618433c" name="Default Changelist" comment="" />
+      <created>1575799164782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575799164782</updated>
+      <workItem from="1575799168289" duration="6569000" />
+      <workItem from="1577058700912" duration="4531000" />
+      <workItem from="1577295479390" duration="118000" />
+      <workItem from="1577297192065" duration="3091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
